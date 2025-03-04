@@ -1,3 +1,5 @@
 python-telegram-bot
 spotipy
 python-dotenv
+python-telegram-bot[job-queue]
+flask
